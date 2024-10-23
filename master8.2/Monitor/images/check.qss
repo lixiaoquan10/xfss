@@ -1,8 +1,0 @@
-QCheckBox::indicator{
-    width: 15px;
-    height: 15px;
-}
- 
-QCheckBox::indicator:checked{
-    image: url(:/images/Check.png);
-}
